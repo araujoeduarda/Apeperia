@@ -16,8 +16,9 @@
   --planos-cartao-ultra: #b04cd9;
   --planos-cartao-mega: #e33b3b;
 
-  --montsettat: "Montserrat", sans-serif;
+  --montserrat: "Montserrat", sans-serif;
 }
+
 body {
   font-family: "Open Sans", sans-serif;
 }
