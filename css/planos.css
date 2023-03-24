@@ -29,7 +29,7 @@
   background-color: var(--branco);
 
   width: 100%;
-  max-width: 300px;
+  max-width: 500px;
 
   margin-bottom: 2rem;
 
@@ -106,3 +106,20 @@
 }
 
 /*Sessão Planos*/
+@media screen and (min-width: 768px) {
+  .cartao {
+    max-width: 500px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .planos__cartoes {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  .cartao {
+    max-width: 300px;
+  }
+}
