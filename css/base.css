@@ -1,7 +1,7 @@
 :root {
   --branco: #fff;
   --azul-claro: #dfe3e5;
-  --vermelho-forte: #b72e2e;
+  --azul-forte: #52abff;
   --cinza-escuro: #4f4c4c;
   --cinza-claro: #f7f4f4;
   --cinza-medio: #d9d9d9;
@@ -40,7 +40,7 @@ body {
 }
 
 .botao:hover {
-  border-color: rgb(189, 5, 5);
+  border-color: #52abff;
   transition: 0.8s;
 }
 @media screen and (min-width: 1024px) {

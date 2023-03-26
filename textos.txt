@@ -1,31 +1,31 @@
 --- CABEÇALHO ---
 
-Texto alternativo da logo: Logo da Apeperia
+Texto alternativo da logo: Logo da CodeHeaven
 
 Sobre
 Planos
-Blog
+Projetos
 Destaques
-Institucional
+Detalhes
 Contato
 
 --- CHAMADA ---
 
 Aplicativos Na Medida
 
-Apeperia tem um jeito inovador de comparar e montar aplicativos para pequenas e médias empresas.
-
-Conheça os planos
+Na Code Heaven, oferecemos soluções inovadoras e personalizadas para pequenas e médias empresas que buscam aplicativos eficientes.
+Conheça os projetos
 
 --- DESTAQUES ---
 
 Destaques
 
-alt: Painel do post sobre criação de logotipo
-Conheça as primeiras etapas para a criação de um logotipo
+alt: Painel de projetos da CodeHeaven
+Veja o projeto do site de Bicicletas Elétricas Bikcraft.
 
-alt: Painel do post sobre fotografia com celular
-Veja dicas de como fotografar usando seu celular
+alt: Painel de projetos da CodeHeaven
+Conheça o projeto de menu online do restaurante BR1
+
 
 Receber destaques por email
 
@@ -44,15 +44,12 @@ Equipe experiente e especializada! Testamos todos os produtos antes do lançamen
 
 Sobre
 
-Criamos aplicativos personalizados para todas as pessoas!
+Na CodeHeaven, acreditamos que todo mundo merece um aplicativo personalizado, independentemente do tamanho do seu negócio. Nosso objetivo é ajudar nossos clientes a alcançarem seus objetivos de negócio por meio de soluções tecnológicas eficientes e personalizadas.
 
-A manutenção de um aplicativo não pode ser um custo extra para o cliente, Na Apeperia você assina nosso serviço e a manutenção já está inclusa. Assim, você não se preocupa com manutenção, é tudo por nossa conta.
-
-Conte com uma equipe especializada e exclusiva pra projetos incríveis em qualquer plataforma.
 
 Desenvolvemos aplicativos para todas as plataformas
 
---- PLANOS ---
+--- PROJETOS ---
 
 Start
 
