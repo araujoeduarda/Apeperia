@@ -85,11 +85,11 @@
 }
 
 .cartao--start {
-  color: var(--planos-cartao-start);
+  color: var(--planos-cartao-p1);
 }
 
 .cartao--ultra {
-  color: var(--planos-cartao-ultra);
+  color: var(--planos-cartao-p2);
 }
 
 .cartao--mega {
@@ -97,11 +97,11 @@
 }
 
 .cartao__botao--start {
-  border-color: var(--planos-cartao-start);
+  border-color: var(--planos-cartao-p1);
 }
 
 .cartao__botao--ultra {
-  border-color: var(--planos-cartao-ultra);
+  border-color: var(--planos-cartao-p2);
 }
 
 .cartao__botao--mega {

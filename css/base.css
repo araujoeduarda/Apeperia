@@ -13,9 +13,9 @@
   --bg-rodape: #333;
   --bg-chamada-mobile: #00161c;
 
-  --planos-cartao-start: #56ccf2;
-  --planos-cartao-ultra: #b04cd9;
-  --planos-cartao-mega: #e33b3b;
+  --planos-cartao-p1: #056b1f;
+  --planos-cartao-p2: #b04cd9;
+  --planos-cartao-p3: #e33b3b;
 
   --montserrat: "Montserrat", sans-serif;
 }
