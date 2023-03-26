@@ -53,7 +53,7 @@
   padding: 0 15%;
 }
 
-.cartao__preco {
+.cartao__img {
   font-weight: 700;
   font-size: 3rem;
   text-align: center;
@@ -63,6 +63,9 @@
 }
 
 .cartao__texto {
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
   color: var(--fonte-cinza);
   line-height: 28px;
 }

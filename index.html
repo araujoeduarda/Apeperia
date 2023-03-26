@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="./css/destaques.css">
   <link rel="stylesheet" href="./css/diferenciais.css">
   <link rel="stylesheet" href="./css/sobre.css">
-  <link rel="stylesheet" href="./css/planos.css">
+  <link rel="stylesheet" href="./css/projetos.css">
   <link rel="stylesheet" href="./css/contato.css">
   <link rel="stylesheet" href="./css/institucional.css">
   <link rel="stylesheet" href="./css/rodape.css">
@@ -30,12 +30,12 @@
     </a>
     <nav class=" cabecalho__navegacao">
       <ul>
-        <li class="cabecalho__link"><a href="#">Sobre</a></li>
-        <li class="cabecalho__link"><a href="#">Projetos</a></li>
-        <li class="cabecalho__link"><a href="#">Planos</a></li>
-        <li class="cabecalho__link"><a href="#">Destaques</a></li>
-        <li class="cabecalho__link"><a href="#">Detalhes</a></li>
-        <li class="cabecalho__link"><a href="#">Contato</a></li>
+        <li class="cabecalho__link"><a href="#Sobre">Sobre</a></li>
+        <li class="cabecalho__link"><a href="#Projetos">Projetos</a></li>
+        <li class="cabecalho__link"><a href="#Institucional">Institucional</a></li>
+        <li class="cabecalho__link"><a href="#Destaques">Destaques</a></li>
+        <li class="cabecalho__link"><a href="#Detalhes">Detalhes</a></li>
+        <li class="cabecalho__link"><a href="#Contato">Contato</a></li>
       </ul>
     </nav>
   </header>
@@ -46,7 +46,7 @@
       <a href="#" class="chamada__botao botao">Conheça os projetos</a>
     </section>
 
-    <section class="destaques container">
+    <section class="destaques container" id="Destaques">
       <h2 class="destaques__titulo">Destaques</h2>
       <a href="https://araujoeduarda.github.io/bikcraft/" target="_blank">
         <figure class="destaques__painel">
@@ -63,7 +63,7 @@
     </section>
 
 
-    <section class="diferenciais container">
+    <section class="diferenciais container" id="Detalhes">
       <ul class="diferenciais__lista">
         <li class="diferenciais__item diferenciais__item--tempo">
           <h2 class="item__titulo">Tempo</h2>
@@ -74,14 +74,14 @@
           <p class="item__texto">Focamos no empreendimento! Oferecemos serviços de qualidade com preços acessíveis.</p>
         </li>
         <li class="diferenciais__item diferenciais__item--especialistas">
-          <h2 class="item__titulo">Especialistas</h2>
-          <p class="item__texto">Equipe experiente e especializada! Testamos todos os produtos antes do lançamento.</p>
+          <h2 class="item__titulo">Especialista</h2>
+          <p class="item__texto">Experiente e especializada! Testamos todos os produtos antes do lançamento.</p>
         </li>
       </ul>
     </section>
 
 
-    <section class="sobre container">
+    <section class="sobre container" id="Sobre">
 
       <div class="sobre__conteudo">
         <h2 class="sobre__titulo">Sobre</h2>
@@ -97,44 +97,37 @@
 
     </section>
 
-    <section class="planos container">
-      <h2 class="planos__titulo">Planos</h2>
+    <section class="planos container" id="Projetos">
+      <h2 class="planos__titulo">Projetos</h2>
       <ul class="planos__cartoes">
-        <li class="cartao cartao--start">
-          <h3 class="cartao__titulo">Start</h3>
+        <li class="cartao cartao--1">
+          <h3 class="cartao__titulo">Decodifique</h3>
           <article class="cartao__conteudo">
-            <p class="cartao__preco"><em>R$ 500</em></p>
-            <p class="cartao__texto">5 manutenções mensais</p>
-            <p class="cartao__texto">App SEO</p>
-            <p class="cartao__texto">1 sistema operacional</p>
-            <a href="plano.html" class="cartao__botao cartao__botao--start botao">Assinar plano</a>
+            <div class="cartao__img"><img src="./img/Decodifique.png" alt="Site Decodifique" width="200px" height="120px"></div>
+            <p class="cartao__texto">Website DEcodifique</p>
+            <a href="plano.html" class="cartao__botao cartao__botao--start botao">Visite a página do projeto!</a>
           </article>
         </li>
-        <li class="cartao cartao--ultra">
-          <h3 class="cartao__titulo">Ultra</h3>
+        <li class="cartao cartao--2">
+          <h3 class="cartao__titulo">Bikcraft</h3>
           <article class="cartao__conteudo">
-            <p class="cartao__preco"><em>R$ 1500</em></p>
-            <p class="cartao__texto">20 manutenções mensais</p>
-            <p class="cartao__texto">App SEO</p>
-            <p class="cartao__texto">4 sistemas operacionais</p>
-            <p class="cartao__texto">24h de atendimento</p>
-            <a href="" class="cartao__botao cartao__botao--ultra botao">Assinar plano</a>
+            <p class="cartao__img"><img src="./img/img1.png" alt="Página da Bikcraft" width="200px" height="120px"></p>
+            <p class="cartao__texto">Website da loja Bikcraft</p>
+            <a href="" class="cartao__botao cartao__botao--ultra botao">Visite a página do projeto!</a>
           </article>
         </li>
-        <li class="cartao cartao--mega">
-          <h3 class="cartao__titulo">Mega</h3>
-          <p class="cartao__preco"><em>R$ 1000</em></p>
+        <li class="cartao cartao--3">
+          <h3 class="cartao__titulo">BR1</h3>
+          <p class="cartao__img"><img src="./img/img2.png" alt="Site Bikcraft" width="200px" height="120px"></p>
           <article class="cartao__conteudo">
-            <p class="cartao__texto">10 manutenções mensais</p>
-            <p class="cartao__texto">App SEO</p>
-            <p class="cartao__texto">2 sistemas operacionais</p>
-            <a href="" class="cartao__botao cartao__botao--mega botao">Assinar plano</a>
+            <p class="cartao__texto">Website do restaurante BR1</p>
+            <a href="" class="cartao__botao cartao__botao--mega botao">Visite a página do projeto!</a>
           </article>
         </li>
       </ul>
     </section>
 
-    <section class="institucional">
+    <section class="institucional" id="Institucional">
       <h1 class="institucional__titulo">INSTITUCIONAL</h1>
       <p class="institucional__descricao">Um pouco mais sobre:</p>
       <address class="institucional__endereco">Localizada no Rio de Janeiro<article class="institucional__contato">
@@ -144,10 +137,11 @@
 
     </section>
 
-    <section class="contato container">
+    <section class="contato container" id="Contato">
       <h2 class="contato__titulo">Contato</h2>
-      <p>Entre em contato com a gente</p>
-      <a href="contato.html" class="contato__botao botao">Entre em contato</a>
+      <p>Entre em contato!</p>
+      <a href="https://www.linkedin.com/in/mariaeduardasoaresaraujo/" class="contato__botao botao">Entre em contato pelo Linkedin</a>
+      <a href="https://github.com/araujoeduarda" class="contato__botao botao">Entre em contato pelo GitHub</a>
     </section>
   </main>
   <footer class="rodape container">
@@ -159,12 +153,12 @@
     </ul>
     <nav>
       <ul class="rodape__navegacao">
-        <li class="rodape__link"><a href="#">Sobre</a></li>
-        <li class="rodape__link"><a href="#">Projetos</a></li>
-        <li class="rodape__link"><a href="#">Planos</a></li>
-        <li class="rodape__link"><a href="#">Destaques</a></li>
-        <li class="rodape__link"><a href="#">Detalhes</a></li>
-        <li class="rodape__link"><a href="#">Contato</a></li>
+        <li class="rodape__link"><a href="#Sobre">Sobre</a></li>
+        <li class="rodape__link"><a href="#Projetos">Projetos</a></li>
+        <li class="rodape__link"><a href="#Institucional">Institucional</a></li>
+        <li class="rodape__link"><a href="#Destaques">Destaques</a></li>
+        <li class="rodape__link"><a href="#Detalhes">Detalhes</a></li>
+        <li class="rodape__link"><a href="#Contato">Contato</a></li>
       </ul>
     </nav>
   </footer>
