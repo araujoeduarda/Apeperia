@@ -27,3 +27,15 @@
 
   margin-top: 1rem;
 }
+
+.botaolinkedin:hover {
+  color: #10078d;
+  border-color: #10078d;
+  transition: 0.8s;
+}
+
+.botaogit:hover {
+  color: #8a0bb1;
+  border-color: #8a0bb1;
+  transition: 0.8s;
+}
