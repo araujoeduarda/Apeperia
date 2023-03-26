@@ -27,6 +27,10 @@
   text-align: center;
   line-height: 3;
 }
+.rodape__navegacao li:hover {
+  color: var(--azul-forte);
+  transition: 1s;
+}
 
 .rodape__link {
   display: inline-block;
@@ -45,4 +49,9 @@
 
     min-width: 600px;
   }
+}
+
+.mensagem_final {
+  font: var(--montserrat);
+  color: aliceblue;
 }

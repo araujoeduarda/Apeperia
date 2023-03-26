@@ -26,6 +26,11 @@
   margin-top: 20px;
 }
 
+.cabecalho__navegacao li:hover {
+  color: var(--branco);
+  transition: 1s;
+}
+
 .cabecalho__link {
   font-size: 1.1rem;
 
