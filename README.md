@@ -34,7 +34,7 @@ Pontos importantes:
 
 
 # 🌐 **Página do Projeto**
-  <p align="center" >Visite a página do projeto clicando <a href="#">aqui</a>.</p>
+  <p align="center" >Visite a página do projeto clicando <a href="https://araujoeduarda.github.io/CodeHeaven/">aqui</a>.</p>
 
 # 🎨 **Modelo no Figma**
 <p align="center" >Visite o projeto do site no Figma clicando <a href="https://www.figma.com/file/PycUHezCoqW8HOa8lwpfDE/Loja-de-Apps?node-id=0-1&t=Kp86KY3bdxkDtzL3-0">aqui</a>.</p> 
