@@ -52,6 +52,7 @@
 }
 
 .mensagem_final {
+  margin-top: 1rem;
   font: var(--montserrat);
   color: aliceblue;
 }
